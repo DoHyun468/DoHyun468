@@ -1,14 +1,9 @@
 <div align="center">
 
-# 🤖 Welcome to Dohyun's Github
-
-*"I build spatial intelligence systems — from calibrated sensors and 3D reconstruction<br>to neural scene representations. Robotics is where these skills become embodied."*
-
-<br>
+# Hi, I'm Dohyun 👋
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kbh446688@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dohyun-kim-950bb429b/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-414868?style=for-the-badge&logo=githubpages&logoColor=white)](https://dohyun468.github.io)
 
 <br>
 
