@@ -26,7 +26,7 @@
 
 | Category | Technologies |
 |---|---|
-| **Language** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-e86e00?style=for-the-badge) |
+| **Language** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) |
 | **ML / Vision** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) |
 | **AI Agents** | ![LLM Agents](https://img.shields.io/badge/LLM%20Agents-7aa2f7?style=for-the-badge) ![MCP](https://img.shields.io/badge/MCP-7aa2f7?style=for-the-badge) |
 
