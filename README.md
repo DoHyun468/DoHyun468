@@ -15,19 +15,25 @@
 
 ## 🛠 Tech Stack
 
-| 3D Perception | Stack |
+### 3D Perception
+
+| Category | Technologies |
 |---|---|
 | **Geometry** | ![Stereo Vision](https://img.shields.io/badge/Stereo%20Vision-1a1b27?style=for-the-badge) ![Camera Calibration](https://img.shields.io/badge/Camera%20Calibration-1a1b27?style=for-the-badge) ![LiDAR](https://img.shields.io/badge/LiDAR-1a1b27?style=for-the-badge) |
 | **Neural 3D** | ![NeRF](https://img.shields.io/badge/NeRF-414868?style=for-the-badge) ![3D Gaussian Splatting](https://img.shields.io/badge/3D%20Gaussian%20Splatting-414868?style=for-the-badge) |
 
-| Languages | Stack |
-|---|---|
-| **Programming** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-e86e00?style=for-the-badge) |
-| **ML / Vision** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) |
+### AI Research
 
-| Etc | Stack |
+| Category | Technologies |
 |---|---|
+| **Language** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-e86e00?style=for-the-badge) |
+| **ML / Vision** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) |
 | **AI Agents** | ![LLM Agents](https://img.shields.io/badge/LLM%20Agents-7aa2f7?style=for-the-badge) ![MCP](https://img.shields.io/badge/MCP-7aa2f7?style=for-the-badge) |
+
+### ETC
+
+| Category | Technologies |
+|---|---|
 | **Tools** | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge) ![SOLIDWORKS](https://img.shields.io/badge/SOLIDWORKS-DA1F26?style=for-the-badge) |
 
 <br>
