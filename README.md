@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Dohyun 👋
+# 🤖 Hi, I'm Dohyun
 
 **3D Perception · AI Research**
 
